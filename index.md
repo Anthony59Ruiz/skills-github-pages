@@ -1,6 +1,7 @@
 ---
 # Title: Welcome to my 1st blog exercise!
 ---
+
 ## First of many!
 
 Although I have no technical background, I am eager to learn and build valuable skills!
